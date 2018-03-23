@@ -2,7 +2,7 @@
 
 **Zen** is a suite of libraries and utilities dedicated to the exploration of the Intergraph Smart3D database.
 
-![Image](https://github.com/LongJSilver/Zen/blob/master/img/Relations3mini.png)
+![Image](/img/Relations3mini.png)
 
 Born as a personal learning aid, it quickly grew up to a complete set of tools to cover many use cases.
 
