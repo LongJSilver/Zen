@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## A new approach to Smart3D's Data model
 
-You can use the [editor on GitHub](https://github.com/LongJSilver/Zen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Zen** is a suite of libraries and utilities dedicated to the exploration of the Intergraph Smart3D database.
+Born as a personal learning aid, it quickly grew up to a complete set of tools to cover many use cases.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Target user profile
+
+**Zen** was built having in mind the requirements and needs of an advanced Smart3D user, the technical consultant or project administrator, to assist in the troubleshooting process or simply as an exploration aid to create and develop advanced Smart3D integration software.
+
+### Under the Hood
+
+The software is built for a Windows platform, and only requires the .Net Framework (ver. 4.5.2 or higher) to run.</br>
+That's it.</br>
+You don't need to install the Smart3D client, nor do you need any Sql Client.</br>
+You can use **Zen** to export Excel workbooks for various purposes, but you don't even need to have MS Excel installed* to do it!</br>
+
+<span style="color:gray">_Of course you *might* need Excel to actually open the workbooks you export :)_</span>.
+
+## Features
 
 ### Markdown
 
