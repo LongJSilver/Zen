@@ -14,7 +14,7 @@ Born as a personal learning aid, it quickly grew up to a complete set of tools t
 
 ### Under the Hood
 
-The software is built for a Windows platform, and only requires the .Net Framework (ver. 4.5.2 or higher) to run.<br/>
+The software is built for a Windows platform, and only requires the .Net Framework (ver. 4.5.2 or higher) to run.<br/><br/>
 That's it.<br/>
 You don't need to install the Smart3D client, nor do you need any Sql Client.<br/>
 You can use **Zen** to export Excel workbooks for various purposes, but you don't even need to have MS Excel installed* to do it!<br/>
@@ -45,7 +45,7 @@ Easily browse the attributes for each and every object you discover. You can eve
 ![Export and Compare](https://github.com/LongJSilver/Zen/blob/master/img/Compare1.PNG?raw=true)
 
 ### Bulkload files
-Last but not least, you can use **Zen** to export the contents of your catalog to a set of Excel workbooks.
+Last but not least, you can use **Zen** to export the contents of your Smart3D catalog to a set of Excel workbooks.
 
 ### Contacts
 Like what you see? Got questions or suggestions?<br/>
