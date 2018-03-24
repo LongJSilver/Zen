@@ -22,51 +22,30 @@ You can use **Zen** to export Excel workbooks for various purposes, but you don'
 ## Features
 
 ### Text Search
-You can paste a list of OIDs to Zen, or you can perform a more human-friendly text search in the **whole** site.
+You can paste a list of OIDs to Zen, or you can perform a more human-friendly text search in the **whole** site.<br/>
 ![Textual Search window](https://github.com/LongJSilver/Zen/blob/master/img/Search1.png?raw=true)
 
 ### Easily navigate the relations
-There is more to Smart3D than meets the eye! Some relationships are not self evident or easily discovered, expecially if you are looking for something in the catalog. But no more!
+There is more to Smart3D than meets the eye! Some relationships are not self evident or easily discovered, expecially if you are looking for something in the catalog. But no more!<br/>
 ![Nodes and relations](https://github.com/LongJSilver/Zen/blob/master/img/Relations1.PNG?raw=true)
 
 ### Simmetry
-Thanks to the visual aid and the modern user interface, you can now use graphical simmetry to find errors at a glance, or discover unexpected relations between seemingly unrelated objects.
+Thanks to the visual aid and the modern user interface, you can now use graphical simmetry to find errors at a glance, or discover unexpected relations between seemingly unrelated objects.<br/>
 ![Illustration of Simmetry](https://github.com/LongJSilver/Zen/blob/master/img/Relations2.png?raw=true)
 
 ### Item Attributes
-Easily browse the attributes for each and every object you discover. You can even go a step further, and look at the raw SQL table entries underlying those attributes, without filters!
+Easily browse the attributes for each and every object you discover. You can even go a step further, and look at the raw SQL table entries underlying those attributes, without filters!<br/>
 ![Attributes box](https://github.com/LongJSilver/Zen/blob/master/img/AttribsAndTable.PNG?raw=true)
 
+### Export Data
+**Zen** lets you export attribute data to an excel workbook. You can even select more than one object and perform a comparison, even if the objects are not of the same type!<br/>
 
+![Export and Compare](https://github.com/LongJSilver/Zen/blob/master/img/Compare1.PNG?raw=true)
 
-### Markdown
+### Bulkload files
+Last but not least, you can use **Zen** to export the contents of your catalog to a set of Excel workbooks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LongJSilver/Zen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contacts
+Like what you see? Got questions or suggestions?<br/>
+Contact me at _**mperna @ outlook.it**_<br/>
+Check me out on [LinkedIn](https://www.linkedin.com/in/marco-perna/)
