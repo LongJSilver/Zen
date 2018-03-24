@@ -1,4 +1,4 @@
-## A new approach to Smart3D's Data model
+## A new look to the Smart3D Data model
 
 **Zen** is a suite of libraries and utilities dedicated to the exploration of the Intergraph Smart3D database.
 
@@ -20,6 +20,24 @@ You can use **Zen** to export Excel workbooks for various purposes, but you don'
 <span style="color:gray">_Of course you *might* need Excel to actually open the workbooks you export :)_</span>
 
 ## Features
+
+### Text Search
+You can paste a list of OIDs to Zen, or you can perform a more human-friendly text search in the **whole** site.
+![Textual Search window](https://github.com/LongJSilver/Zen/blob/master/img/Search1.png?raw=true)
+
+### Easily navigate the relations
+There is more to Smart3D than meets the eye! Some relationships are not self evident or easily discovered, expecially if you are looking for something in the catalog. But no more!
+![Nodes and relations](https://github.com/LongJSilver/Zen/blob/master/img/Relations1.PNG?raw=true)
+
+### Simmetry
+Thanks to the visual aid and the modern user interface, you can now use graphical simmetry to find errors at a glance, or discover unexpected relations between seemingly unrelated objects.
+![Illustration of Simmetry](https://github.com/LongJSilver/Zen/blob/master/img/Relations2.png?raw=true)
+
+### Item Attributes
+Easily browse the attributes for each and every object you discover. You can even go a step further, and look at the raw SQL table entries underlying those attributes, without filters!
+![Attributes box](https://github.com/LongJSilver/Zen/blob/master/img/AttribsAndTable.PNG?raw=true)
+
+
 
 ### Markdown
 
