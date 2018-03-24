@@ -1,3 +1,5 @@
+<head> <title>Zen Suite</title> </head>
+
 ## A new look to the Smart3D Data model
 
 **Zen** is a suite of libraries and utilities dedicated to the exploration of the Intergraph Smart3D database.
